@@ -57,6 +57,12 @@ This project analyses patient data to assess the impact of smoking on organ heal
   </tr>
 </table>
 
+
+<img width="2076" height="1162" alt="Smoking Risk Analysis_dashboard walkthrough" src="https://github.com/user-attachments/assets/75e60874-e35c-4e1f-a7d7-720dd4016acb" />
+
+
+
+
 # Key Findings
 ### 1. Dominant Risk Factor Identification
 - Smoking (both current and former status) is the most significant behavioral factor correlated with organ damage, especially for the Lungs and Heart.
