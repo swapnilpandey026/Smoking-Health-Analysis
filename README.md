@@ -1,3 +1,10 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analysis-4479A1?logo=mysql&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Sales%20Insights-2E7D32)
+
 # SmokeHealth Analytics
 This project analyses patient data to assess the impact of smoking on organ health. The project covers the full analytic workflow—data cleaning with Power Query, building a data model, creating advanced DAX measures, and designing an interactive dashboard with KPIs, charts, and slicers. It demonstrates how to turn clinical data into visual insights for identifying high-risk patient groups and supporting preventive healthcare decisions.
 
